@@ -1,0 +1,39 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+}
+h1 {
+    text-transform: uppercase;
+}
+.container{
+    max-width: 600px;
+    background-color: aliceblue;
+    margin:auto;
+    padding: 0 0 10px 20px;
+}
+.container h1{
+    text-align: center;
+    font-size: 40px;
+    color:rgb(245, 97, 48);
+}
+
+#phone{
+    margin-left: auto;
+    max-width: 600px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.input{
+    padding:0 5px;
+    height:20px;
+    width: fit-content;
+
+}
+.input :placeholder{
+    font-style: italic;
+    font-size: small;
+
+}
